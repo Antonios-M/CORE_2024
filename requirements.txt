@@ -1,0 +1,6 @@
+
+grasshopper==1.1.3
+numpy==2.1.2
+rhino3dm==8.9.0
+networkx==3.4.2
+robodk==5.7.5
