@@ -27,17 +27,6 @@ The repository is organized as follows:
 
 2. [Add any additional installation steps]
 
-## Usage
-
-[Provide instructions on how to use the project, including any command-line examples or code snippets]
-
-## Contributing
-
-We welcome contributions to the CORE 2024 project. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to submit pull requests, report issues, or suggest improvements.
-
-## License
-
-This project is licensed under the [specify license type] - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
@@ -48,4 +37,4 @@ For questions or support, please contact [maintainer's name or email].
 [List any acknowledgments, credits, or resources used in the project]
 
 Citations:
-[1] https://github.com/Antonios-M/CORE_2024/tree/main
+[1] https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting
