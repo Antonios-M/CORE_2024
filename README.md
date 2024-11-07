@@ -7,16 +7,13 @@ CORE 2024 is a project focused on [brief description of the project's main purpo
 The repository is organized as follows:
 
 - `src/`: Contains the source code for the project
-- `docs/`: Documentation files
-- `tests/`: Unit tests and test data
-- `data/`: Sample datasets or data-related files
-- `scripts/`: Utility scripts and tools
-
-## Getting Started
+- `examples/`: Example files for assembly sequence and robot prototype
+- `data/`: Datasets of cutting patterns and structural design
+- `gh/`: Grasshopper files for robot protype and structural design / assembly sequence
 
 ### Prerequisites
 
-- [List any necessary software, libraries, or tools]
+- Download .gha file from https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting
 
 ### Installation
 
