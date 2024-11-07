@@ -1,6 +1,6 @@
 ## Project Overview
 
-CORE 2024 is a project focused on [brief description of the project's main purpose or goals].
+CORE 2024 is a project focused on designing a system of multi-robot assembly of rigidity-preserving structures, all while elminating the use of scaffolding
 
 ## Repository Structure
 
