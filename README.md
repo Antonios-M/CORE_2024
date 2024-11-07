@@ -1,9 +1,3 @@
-Here's a README file for the GitHub repository at https://github.com/Antonios-M/CORE_2024/tree/main:
-
-# CORE 2024
-
-This repository contains the code and resources for the CORE 2024 project.
-
 ## Project Overview
 
 CORE 2024 is a project focused on [brief description of the project's main purpose or goals].
