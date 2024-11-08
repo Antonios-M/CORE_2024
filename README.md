@@ -12,6 +12,10 @@ The repository is organized as follows:
 - `gh/`: Grasshopper files for robot protype and structural design / assembly sequence
 
 ### Prerequisites
+
+RoboDk
+-Download https://robodk.com/download
+
 GH_Linear_Cutting
 - Download .gha file from https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting
 
