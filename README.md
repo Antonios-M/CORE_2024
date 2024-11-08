@@ -13,8 +13,7 @@ The repository is organized as follows:
 
 ### Prerequisites
 
-RoboDk
--Download https://robodk.com/download
+RoboDk: https://robodk.com/download
 
 GH_Linear_Cutting
 - Download .gha file from https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting
