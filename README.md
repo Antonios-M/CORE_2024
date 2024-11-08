@@ -13,10 +13,9 @@ The repository is organized as follows:
 
 ### Prerequisites
 
--Rhinoceros & RoboDK Files : https://drive.google.com/drive/folders/1hj0ywdX9TM16v8JOCXHmmRV7WWfTj7M6?usp=drive_link
-
--RoboDk: https://robodk.com/download
-
+Rhinoceros & RoboDk Files
+- Download from https://drive.google.com/drive/folders/1hj0ywdX9TM16v8JOCXHmmRV7WWfTj7M6?usp=drive_link
+  
 GH_Linear_Cutting
 - Download .gha file from https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting
 
