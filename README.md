@@ -45,11 +45,7 @@ Pufferfish
 
 ## Contact
 
-For questions or support, please contact [maintainer's name or email].
-
-## Acknowledgments
-
-[List any acknowledgments, credits, or resources used in the project]
+For questions or support, please contact smaniatis@tudelft.nl.
 
 Citations:
 [1] https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting
