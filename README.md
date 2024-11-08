@@ -14,16 +14,22 @@ The repository is organized as follows:
 ### Prerequisites
 GH_Linear_Cutting
 - Download .gha file from https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting
+
 Karamba
 - Download from https://karamba3d.com/
+
 Hops
 - Download https://www.food4rhino.com/en/app/hops
+
 Telepathy
 - Download https://www.food4rhino.com/en/app/telepathy
+
 Human
 - Download https://www.food4rhino.com/en/app/human
+
 Fox
 - Download https://www.food4rhino.com/en/app/fox
+
 Pufferfish
 - Download https://www.food4rhino.com/en/app/pufferfish
 
