@@ -7,6 +7,7 @@ CORE 2024 is a project focused on designing a system of multi-robot assembly of 
 The repository is organized as follows:
 
 - `src/`: Contains the source code for the project
+  `ansys/`: Contains simulation files and data on the topological optimisation and detailed analysis of node geometry
 - `examples/`: Example files for assembly sequence and robot prototype
 - `data/`: Datasets of cutting patterns and structural design
 - `gh/`: Grasshopper files for robot protype and structural design / assembly sequence
