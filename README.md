@@ -12,6 +12,7 @@ Required Files:
 
 2) The Structure Design & Optimisation Algorithm
 
+
 Required Files:
 	•	241105_Combined model.gh
 	•	241105_Combined model.3dm
