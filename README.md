@@ -33,9 +33,9 @@ The core structure of this computational framework is integrated into all parts 
 2) **The Structure Design & Optimisation Algorithm**
 
 **Required Files:**
-  • `241105_Combined model.gh`  
-  • `241105_Combined model.3dm`  
-  • `on_site_assembly.xlsx`
+  • [241105_Combined model.gh](https://github.com/Antonios-M/CORE_2024/blob/main/gh/structural_optimisation/241105_Combined%20model.gh)  
+  • [241105_Combined model.3dm](https://drive.google.com/file/d/1Ds01K0zyoJiDR4t8Iob-g5H5hhUbotOR/view?usp=sharing)  
+  • [on_site_assembly.xlsx](https://github.com/Antonios-M/CORE_2024/blob/main/gh/structural_optimisation/on_site_assembly.xlsx)
 
 3) **The Multi-Robot Assembly Setup Algorithm**
 
