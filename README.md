@@ -2,8 +2,20 @@
 
 CORE 2024 is a project focused on designing a system of multi-robot assembly of rigidity-preserving structures, all while eliminating the use of scaffolding. This is done through the a multi-robot setup where robots act both as workers and scaffolding ensuring rigidity along the (dis)assembly process. Topological / geometry contstraints are necessary to ensure that each step of the assembly is locally and globally rigid. Our project starts by reconfiguring an existing design with those constraints in mind, then through an assembly sequence algorithm which creates the order of steps of assembly ensuring rigidity is working in cooperation with the structural reconfiguration and optimisation setup for evalutation, and the same ordered elements are used in combination with the multi-robot framework to generate the assembly programs for the robots.
 
-## Before proceeding you can read the full documentation and analysis of the project:
+**Read the full documentation of the project:**
 https://www.youtube.com/
+
+---
+
+## Repository Structure
+
+The repository is organized as follows:
+
+- `src/`: Contains the source code for the project  
+  - `ansys/`: Contains simulation files and data on the topological optimisation and detailed analysis of node geometry
+- `examples/`: Example files for assembly sequence and robot prototype
+- `data/`: Datasets of cutting patterns and structural design
+- `gh/`: Grasshopper files for robot prototype and structural design / assembly sequence
 
 This repository provides access to the three main components of the project:
 
@@ -30,18 +42,6 @@ The core structure of this computational framework is integrated into all parts 
 
 **Optional External Interface:**
   • `RobotManager.py`
-
----
-
-## Repository Structure
-
-The repository is organized as follows:
-
-- `src/`: Contains the source code for the project  
-  - `ansys/`: Contains simulation files and data on the topological optimisation and detailed analysis of node geometry
-- `examples/`: Example files for assembly sequence and robot prototype
-- `data/`: Datasets of cutting patterns and structural design
-- `gh/`: Grasshopper files for robot prototype and structural design / assembly sequence
 
 ---
 
