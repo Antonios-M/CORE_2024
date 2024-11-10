@@ -4,7 +4,7 @@ CORE 2024 is a project focused on designing a system of multi-robot assembly of 
 
 **Read the full documentation of the project:**
 [Team07ProjectPortfolio.pdf](https://github.com/Antonios-M/CORE_2024/blob/main/Team07ProjectPortfolio.pdf)
-
+**The Rhinoceros & RoboDk files necessary to run the software can be found in the external links below**
 
 ---
 
@@ -87,8 +87,12 @@ The core structure of this computational framework is integrated into all parts 
    git clone https://github.com/Antonios-M/CORE_2024.git
 
 2. Install Pre-requisites
+**Rhinoceros 8,RoboDk & Karamba need licenses ro run.**
 
 ### Contact
 
 For questions or support, please contact:
 **Email** : smaniatis@tudelft.nl
+
+### Citation 
+GH_Linear_Cutting GitHub Repository (https://github.com/AlexanderMorozovDesign/GH_Linear_Cutting)
