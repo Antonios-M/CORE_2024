@@ -51,7 +51,7 @@ Pufferfish
    git clone https://github.com/Antonios-M/CORE_2024.git
    ```
 
-2. [Add any additional installation steps]
+2. Install Pre-requisites
 
 
 ## Contact
