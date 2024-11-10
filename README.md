@@ -28,7 +28,7 @@ This repository provides access to the three main components of the project:
 The core structure of this computational framework is integrated into all parts of the project.
 
 **Required Files:**
-  • `assembly_sequence_and_cutting_stock.gh`
+  • [assembly_sequence_and_cutting_stock.gh](https://github.com/Antonios-M/CORE_2024/blob/main/gh/assembly_sequence/assembly_sequence_and_cutting_stock.gh)
 
 2) **The Structure Design & Optimisation Algorithm**
 
