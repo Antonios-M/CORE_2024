@@ -12,6 +12,9 @@ CORE 2024 is a project focused on designing a system of multi-robot assembly of 
 ## Instructions for the Robot Prototype: 
 [RoboticAssembly.md](https://github.com/Antonios-M/CORE_2024/blob/main/gh/robotic_assembly/RoboticAssembly.md)
 
+## Example File for the Assembly Sequence Algorithm:
+[Examples](https://github.com/Antonios-M/CORE_2024/tree/main/examples)
+
 
 ---
 
