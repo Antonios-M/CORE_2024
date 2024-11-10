@@ -4,6 +4,7 @@ CORE 2024 is a project focused on designing a system of multi-robot assembly of 
 
 **Read the full documentation of the project:**
 [Team07ProjectPortfolio.pdf](https://github.com/Antonios-M/CORE_2024/blob/main/Team07ProjectPortfolio.pdf)
+
 (Open the .pdf file externally since GitHub may not display all the images properly)
 
 **The Rhinoceros & RoboDk files necessary to run the software can be found in the external links below**
