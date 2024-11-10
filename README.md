@@ -1,6 +1,32 @@
 ## Project Overview
 
 CORE 2024 is a project focused on designing a system of multi-robot assembly of rigidity-preserving structures, all while elminating the use of scaffolding
+Project Overview.This repository provides access to the three main components of the project:
+
+1) The Assembly Sequence Algorithm
+
+The core structure of this computational framework is integrated into all parts of the project.
+
+Required Files:
+	•	assembly_sequence_and_cutting_stock.gh
+
+2) The Structure Design & Optimisation Algorithm
+
+Required Files:
+	•	241105_Combined model.gh
+	•	241105_Combined model.3dm
+	•	on_site_assembly.xlsx
+
+3) The Multi-Robot Assembly Setup Algorithm
+
+Required Files:
+	•	RoboticAssemblyPrototype.3dm
+	•	RoboticAssemblyPrototype.rdk
+	•	RoboticAssemblyPrototype.gh
+
+Optional External Interface:
+	•	RobotManager.py
+
 
 ## Repository Structure
 
