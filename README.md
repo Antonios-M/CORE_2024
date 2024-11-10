@@ -81,3 +81,8 @@ The repository is organized as follows:
    git clone https://github.com/Antonios-M/CORE_2024.git
 
 2. Install Pre-requisites
+
+### Contact
+
+For questions or support, please contact:
+**Email** : smaniatis@tudelft.nl
