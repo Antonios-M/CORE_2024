@@ -3,7 +3,7 @@
 CORE 2024 is a project focused on designing a system of multi-robot assembly of rigidity-preserving structures, all while eliminating the use of scaffolding. This is done through the a multi-robot setup where robots act both as workers and scaffolding ensuring rigidity along the (dis)assembly process. Topological / geometry contstraints are necessary to ensure that each step of the assembly is locally and globally rigid. Our project starts by reconfiguring an existing design with those constraints in mind, then through an assembly sequence algorithm which creates the order of steps of assembly ensuring rigidity is working in cooperation with the structural reconfiguration and optimisation setup for evalutation, and the same ordered elements are used in combination with the multi-robot framework to generate the assembly programs for the robots.
 
 **Read the full documentation of the project:**
-[Team07ProjectPortfolio.pdf]((https://github.com/Antonios-M/CORE_2024/blob/main/Team07ProjectPortfolio.pdf))
+[Team07ProjectPortfolio.pdf](https://github.com/Antonios-M/CORE_2024/blob/main/Team07ProjectPortfolio.pdf)
 
 
 ---
