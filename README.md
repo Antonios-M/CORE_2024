@@ -36,6 +36,7 @@ The core structure of this computational framework is integrated into all parts 
 
 **Grasshopper File:**
   • [assembly_sequence_and_cutting_stock.gh](https://github.com/Antonios-M/CORE_2024/blob/main/gh/assembly_sequence/assembly_sequence_and_cutting_stock.gh)
+  
 **Python file:**
   • [Trussemble.py] (https://github.com/Antonios-M/CORE_2024/blob/main/src/assembly_sequence/Trussemble.py)
 
